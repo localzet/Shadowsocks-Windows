@@ -20,10 +20,6 @@
 <img src="shadowsocks-csharp/Resources/ssw128.png" alt="[logo]" width="48"/> Shadowsocks for Windows
 =======================
 
-[![Build Status]][Appveyor]
-
-[中文说明]
-
 ## Features
 
 1. System proxy configuration
@@ -149,10 +145,6 @@ Please visit [Servers] for more information.
 1. Visual Studio 2019 & .NET Framework 4.8 SDK are required.
 2. It is recommended to share your idea on the Issue Board before you start to work,
 especially for feature development.
-
-## License
-
-[GPLv3]
 
 ## Open Source Components / Libraries
 
